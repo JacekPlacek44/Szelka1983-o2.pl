@@ -1,0 +1,7 @@
+echo "# Szelka1983-o2.pl" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:JacekPlacek44/Szelka1983-o2.pl.git
+git push -u origin main
